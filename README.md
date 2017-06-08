@@ -1,5 +1,5 @@
 Timepass app to learn React basics. It cycles through the awesome posts at [Classic Programmer Paintings](http://classicprogrammerpaintings.com/).
-The response from the public read api is saved in `api.js` and used as base to generate data.
+The response from the public read api is saved in `api.js` and used as a base to generate data.
 
 ### Install
 `yarn install`
